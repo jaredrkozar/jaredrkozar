@@ -5,7 +5,4 @@
 - ❤️ I love experimenting with new iOS APIs and features that can help users, especially those who are visually impaired, increase their productivity  
 - 📫 How to reach me: email jared.rkozar@gmail.com
 
-<!---
-jaredrkozar/jaredrkozar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredrkozar)](https://github.com/anuraghazra/github-readme-stats)
