@@ -7,5 +7,5 @@
 
 [![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredrkozar&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
- [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredrkozar&hide=Assembly,CSS&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+ [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredrkozar&hide=Assembly,CSS,jupyter%20notebook&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 )
