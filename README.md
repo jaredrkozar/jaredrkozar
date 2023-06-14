@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaredrkozar. I'm a programmer who has 2+ years of experience building apps and websites with Swift and React.  
 - 👀 I’m interested in computer science and web design.
-- 🌱 I’m currently learning more and diving deeper and learning more about into React and Swift.
+- 🌱 I’m currently learning more about, and diving deeper into, React and Swift.
 - ❤️ I love experimenting with new iOS APIs and how they can be used in interesting and fun ways. I also like working on websites.  
 - Feel free to reach out to me via email jared.rkozar@gmail.com or by [connecting with me on LinkedIn](https://www.linkedin.com/in/jaredkozar/)
